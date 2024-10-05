@@ -2,7 +2,7 @@
 
 Link to project: https://sansomcleaners.netlify.app/
 
-![alt tag](https://imgur.com/a/KLsLqMu)
+![alt tag](https://i.imgur.com/WGK0lJG.png)
 
 How It's Made:
 Tech used: HTML, CSS, JavaScript using HTML5 UP! Template 

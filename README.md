@@ -1,4 +1,4 @@
-# Sansomcleaner
+# Sansom Cleaner
 
 Link to project: https://sansomcleaners.netlify.app/
 
